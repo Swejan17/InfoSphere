@@ -30,7 +30,7 @@ Install the required packages by: `pip install -r requirements.txt`
 
 ### Node.js Setup
 
-- Install the npm packages by `npm ci`
+- Install the npm packages by `npm i`
 - Run the client/frontend by `npm run dev`
 
 Once both the client and the server are running you can use the app.
